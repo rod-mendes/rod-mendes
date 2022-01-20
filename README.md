@@ -1,6 +1,6 @@
-## Olá! ✌️
+## Olá!
 
-Sou estagiário na IntuitiveCare® e faço parte da equipe de Front-end 
+Sou estagiário na IntuitiveCare® e faço parte da equipe de Front-end ✌️
 
 ## Eu utilizo
 
