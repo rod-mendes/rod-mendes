@@ -1,6 +1,6 @@
 ## Olá!
 
-Sou estagiário na IntuitiveCare® e faço parte da equipe de Front-end ✌️
+Sou desenvolvedor front-end e designer UI/UX na IntuitiveCare® ✌️
 
 ## Eu utilizo
 
